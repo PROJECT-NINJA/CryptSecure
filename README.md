@@ -1,6 +1,7 @@
 # CryptSecure
 
 ## Made by: Rishita 
+## Uses SHA 256
 
 Alohomora!!! Now use this magic encrypter to encrypt the texts.
 The best crypto-security application.
